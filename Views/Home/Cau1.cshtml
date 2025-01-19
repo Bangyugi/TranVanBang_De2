@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "Cau1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model TranVanBang_De2.Models.SanPham
+
+
+@{ 
+    string maSanPham = "";
+    string tenSanPham = "";
+    string loaiSanPham = "";
+    int soLuong = 0;
+    decimal donGia = 0;
+    decimal thanhTien = 0;
+
+    if (IsPost)
+    {
+        maSanPham = Request.Form["maSanPham"];
+        tenSanPham = Request.Form["tenSanPham"];
+        loaiSanPham = Request.Form["loaiSanPham"];
+        soLuong = int.TryParse(Request.Form["soLuong"], out int sl) ? sl : 0;
+        donGia = int.TryParse(Request.Form["donGia"], out int dg) ? dg : 0;
+
+        if (soLuong >= 200)
+        {
+            thanhTien = donGia * soLuong * 0.85m;
+        }
+        else
+        {
+            thanhTien = donGia * soLuong;
+        }
+    }
+}
+
+
+
+
+    
+
+    <div class="form-container">
+        <h2>Tính Thành Tiền</h2>
+        <form method="post">
+            <div>
+                <label for="maSanPham" >Mã sản phẩm:</label>
+                <input type="text" id="maSanPham" name="maSanPham" value="@maSanPham" class="form-control " />
+            </div>
+            <div>
+                <label for="tenSanPham" >Tên sản phẩm:</label>
+                <input type="text" id="tenSanPham" name="tenSanPham" value="@tenSanPham" class="form-control " />
+            </div>
+            <div>
+                <label for="loaiSanPham">Loại sản phẩm:</label>
+                <select id="loaiSanPham" name="loaiSanPham" class="form-control w-100 ">
+                    <option value="" disabled selected>Chọn loại sản phẩm</option>
+                    <option value="Nông sản" @(loaiSanPham == "Nông sản" ? "selected" : "")>Nông sản</option>
+                    <option value="Hải sản" @(loaiSanPham == "Hải sản" ? "selected" : "")>Hải sản</option>
+                    <option value="Đồ uống" @(loaiSanPham == "Đồ uống sản" ? "selected" : "")>Đồ uống</option>
+                </select>
+            </div>
+            <div>
+                <label for="soLuong" >Số lượng:</label>
+                <input type="number" id="soLuong" name="soLuong" value="@soLuong" class="form-control " />
+            </div>
+            <div>
+                <label for="donGia" >Đơn giá:</label>
+                <input type="number" id="donGia" name="donGia" value="@donGia" class="form-control " />
+            </div>
+            <div>
+                <label for="thanhTien">Thành tiền:</label>
+                <input type="number" id="thanhTien" name="thanhTien" value="@thanhTien" class="form-control  " readonly />
+            </div>
+            <div>
+                <button type="submit" class="btn ">Tính</button>
+            </div>
+        </form>
+    </div>
+
+
+

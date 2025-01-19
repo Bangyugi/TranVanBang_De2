@@ -1,0 +1,38 @@
+﻿@model TranVanBang_De2.Models.SanPham
+@{
+    ViewBag.Title = "Cau2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="form-container">
+    <h2>Tính Thành Tiền</h2>
+    @using (Html.BeginForm("KetQua", "Home", FormMethod.Post)) {
+
+        <div>
+            @Html.LabelFor(m => m.MaSanPham)
+            @Html.TextBoxFor(m => m.MaSanPham, new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.TenSanPham)
+            @Html.TextBoxFor(m => m.TenSanPham, new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.LoaiSanPham)
+            @Html.DropDownListFor(m => m.LoaiSanPham,
+  new SelectList(new[] { "Nông sản", "Hải sản", "Đồ uống" }), new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.SoLuong)
+            @Html.TextBoxFor(m => m.SoLuong, new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.DonGia)
+            @Html.TextBoxFor(m => m.DonGia, new { @class = "form-control" })
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Tính</button>
+        </div>
+            }
+    
+</div>
