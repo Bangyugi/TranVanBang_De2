@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\views\\home\\cau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\home\\cau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|d:\\my storage\\desktop\\learning-corner\\learn_asp_net\\tranvanbang_de2\\views\\home\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\home\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|d:\\my storage\\desktop\\learning-corner\\learn_asp_net\\tranvanbang_de2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|d:\\my storage\\desktop\\learning-corner\\learn_asp_net\\tranvanbang_de2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\views\\home\\cau1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\home\\cau1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4507BF-980A-4E95-8057-A511C79BC4CA}|TranVanBang_De2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KetQua.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\KetQua.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\KetQua.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\KetQua.cshtml",
+              "RelativeToolTip": "Views\\Home\\KetQua.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:01:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T15:24:45.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Models\\SanPham.cs",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Models\\SanPham.cs",
+              "RelativeToolTip": "Models\\SanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:36:21.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:34:43.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:34:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cau2.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\Cau2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cau2.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\Cau2.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cau2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:33:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cau1.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\Cau1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cau1.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Home\\Cau1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cau1.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:33:25.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAtwKYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T13:32:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\My storage\\Desktop\\Learning-corner\\Learn_ASP_NET\\TranVanBang_De2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:31:13.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
